@@ -1,8 +1,21 @@
-# React + Vite
+# FoodieHub
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple food ordering web application built with Vite, React, and Tailwind CSS.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Home page with a hero section and a list of features
+- Menu page with a list of food items
+- Order page with a form to submit an order
+- Contact page with a form to submit a message
+
+## Quick Start
+
+1. Clone the repository
+2. Run `npm install`
+3. Run `npm run dev` to start the development server
+4. Open [http://localhost:3000](http://localhost:3000) in your browser
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
